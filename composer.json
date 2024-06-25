@@ -2,6 +2,7 @@
     "name": "jesgs/form",
     "description": "A package for dynamically generating WordPress Settings form elements.",
     "type": "library",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "jesgs",
