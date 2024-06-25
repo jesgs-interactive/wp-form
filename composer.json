@@ -1,0 +1,17 @@
+{
+    "name": "jesgs/form",
+    "description": "A package for dynamically generating WordPress Settings form elements.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "jesgs",
+            "email": "2304490+jesgs@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JesGs\\WP\\Form\\": "src/"
+        }
+    },
+    "require": {}
+}
